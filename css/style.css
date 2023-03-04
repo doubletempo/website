@@ -1,6 +1,6 @@
 @font-face {
   font-family: ArtexSEMI;
-  src: url("https://raw.githubusercontent.com/doubletempo/website/master/fonts/Artex-SemiExtended-Medium-Italic.woff2");
+  src: url("/fonts/Artex-SemiExtended-Medium-Italic.woff2");
 }
 .artexsemi {
   font-family: ArtexSEMI;
@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: ArtexSEM;
-  src: url("https://raw.githubusercontent.com/doubletempo/website/master/fonts/Artex-SemiExtended-Medium.woff2");
+  src: url("/fonts/Artex-SemiExtended-Medium.woff2");
 }
 .artexsem {
   font-family: ArtexSEM;
@@ -16,7 +16,7 @@
 
 @font-face {
   font-family: Artex;
-  src: url("https://raw.githubusercontent.com/doubletempo/website/master/fonts/Artex-Regular.woff2");
+  src: url("/fonts/Artex-Regular.woff2");
 }
 .artex {
   font-family: Artex;
@@ -24,7 +24,7 @@
 
 @font-face {
   font-family: ArtexM;
-  src: url("https://raw.githubusercontent.com/doubletempo/website/master/fonts/Artex-Medium.woff2");
+  src: url("/fonts/Artex-Medium.woff2");
 }
 .artexm {
   font-family: ArtexM;
@@ -32,7 +32,7 @@
 
 @font-face {
   font-family: ArtexSE;
-  src: url("https://raw.githubusercontent.com/doubletempo/website/master/fonts/Artex-SemiExtended-Regular.woff2");
+  src: url("/fonts/Artex-SemiExtended-Regular.woff2");
 }
 .artexse {
   font-family: ArtexSE;
